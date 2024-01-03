@@ -1,4 +1,4 @@
-# LangChain Server and Web Research Assistant
+# ResearchMate@AI4Science
 
 LangChain is a powerful natural language processing library that combines web searching, document summarization, and report generation. The LangChain Server and Web Research Assistant projects utilize this library to provide an API server with a web-based interface, allowing users to perform advanced research tasks seamlessly.
 
